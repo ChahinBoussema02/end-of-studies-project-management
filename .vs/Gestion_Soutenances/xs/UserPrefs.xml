@@ -1,0 +1,80 @@
+﻿<Properties StartupConfiguration="{52110025-04D9-4009-BF08-E60D6F628BB9}|http">
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.ItemProperties.Gestion__Soutenances PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Gestion Soutenances/Startup.cs">
+    <Files>
+      <File FileName="Gestion Soutenances/Controllers/HomeController.cs" />
+      <File FileName="Gestion Soutenances/Models/Enseignant.cs" />
+      <File FileName="Gestion Soutenances/Program.cs" />
+      <File FileName="Gestion Soutenances/appsettings.json" />
+      <File FileName="Gestion Soutenances/Models/PFE.cs" />
+      <File FileName="Gestion Soutenances/Models/Societe.cs" />
+      <File FileName="Gestion Soutenances/Models/PFE_Etudiant.cs" />
+      <File FileName="Gestion Soutenances/Models/Etudiant.cs" />
+      <File FileName="Gestion Soutenances/Data/SoutenanceContext.cs" />
+      <File FileName="Gestion Soutenances/Properties/launchSettings.json" />
+      <File FileName="Gestion Soutenances/Startup.cs" Line="1" Column="1" />
+      <File FileName="Gestion Soutenances/appsettings.Development.json" />
+      <File FileName="Gestion Soutenances/Models/ErrorViewModel.cs" />
+      <File FileName="Gestion Soutenances/Controllers/EnseignantsController.cs" />
+      <File FileName="Gestion Soutenances/Views/Enseignants/Create.cshtml" />
+      <File FileName="Gestion Soutenances/Views/Home/Index.cshtml" />
+      <File FileName="Gestion Soutenances/Views/Enseignants/Delete.cshtml" />
+      <File FileName="Gestion Soutenances/Views/Home/Privacy.cshtml" />
+      <File FileName="Gestion Soutenances/Views/Enseignants/Index.cshtml" />
+      <File FileName="Gestion Soutenances/Views/PFEs/Index.cshtml" />
+      <File FileName="Gestion Soutenances/Views/_ViewStart.cshtml" />
+      <File FileName="Gestion Soutenances/Views/Etudiants/Index.cshtml" />
+      <File FileName="Gestion Soutenances/Views/PFEs/Create.cshtml" />
+      <File FileName="Gestion Soutenances/Controllers/PFEsController.cs" />
+      <File FileName="Gestion Soutenances/Views/Shared/_Layout.cshtml" />
+      <File FileName="Gestion Soutenances/wwwroot/css/site.css" />
+      <File FileName="Gestion Soutenances/wwwroot/lib/bootstrap/dist/css/bootstrap.css" />
+      <File FileName="Gestion Soutenances/Controllers/PFE_EtudiantsController.cs" />
+      <File FileName="Gestion Soutenances/Views/Etudiants/Create.cshtml" />
+      <File FileName="Gestion Soutenances/Views/Etudiants/Delete.cshtml" />
+      <File FileName="Gestion Soutenances/Views/Etudiants/Details.cshtml" />
+      <File FileName="Gestion Soutenances/Controllers/EtudiantsController.cs" />
+      <File FileName="Gestion Soutenances/Views/Enseignants/Details.cshtml" />
+      <File FileName="Gestion Soutenances/Views/PFE_Etudiants/Index.cshtml" />
+      <File FileName="Gestion Soutenances/Views/Societes/Index.cshtml" />
+      <File FileName="Gestion Soutenances/Views/PFE_Etudiants/Create.cshtml" />
+      <File FileName="Gestion Soutenances/Views/Enseignants/Edit.cshtml" />
+      <File FileName="Gestion Soutenances/Views/Etudiants/Edit.cshtml" />
+      <File FileName="Gestion Soutenances/Views/PFEs/Edit.cshtml" />
+      <File FileName="Gestion Soutenances/Views/PFE_Etudiants/Edit.cshtml" />
+      <File FileName="Gestion Soutenances/Views/Societes/Create.cshtml" />
+      <File FileName="Gestion Soutenances/Views/Societes/Edit.cshtml" />
+      <File FileName="Gestion Soutenances/wwwroot/js/site.js" />
+      <File FileName="Gestion Soutenances/Models/PFEChartDataViewModel.cs" />
+      <File FileName="Gestion Soutenances/Views/PFEs/Details.cshtml" />
+      <File FileName="Gestion Soutenances/Views/PFEs/Delete.cshtml" />
+      <File FileName="Gestion Soutenances/Views/PFE_Etudiants/Delete.cshtml" />
+      <File FileName="Gestion Soutenances/Views/Societes/Delete.cshtml" />
+      <File FileName="Gestion Soutenances/wwwroot/dist/js/adminlte.js" />
+      <File FileName="Gestion Soutenances/wwwroot/dist/js/demo.js" />
+      <File FileName="Gestion Soutenances/Gestion_Soutenances.csproj" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Gestion_Soutenances" expanded="True">
+            <Node name="Gestion_Soutenances" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

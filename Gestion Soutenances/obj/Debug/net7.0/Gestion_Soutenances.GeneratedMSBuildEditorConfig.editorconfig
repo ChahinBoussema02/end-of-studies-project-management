@@ -1,0 +1,127 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Gestion_Soutenances
+build_property.RootNamespace = Gestion_Soutenances
+build_property.ProjectDir = /Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/HP/Projects/Gestion Soutenances/Gestion Soutenances
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/Views/Enseignants/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW5zZWlnbmFudHMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/Views/Enseignants/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW5zZWlnbmFudHMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/Views/Enseignants/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW5zZWlnbmFudHMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/Views/Enseignants/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW5zZWlnbmFudHMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/Views/Enseignants/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW5zZWlnbmFudHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/Views/PFEs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUEZFcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/Views/PFEs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUEZFcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/Views/PFEs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUEZFcy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/Views/PFEs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUEZFcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/Views/PFEs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUEZFcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/Views/PFE_Etudiants/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUEZFX0V0dWRpYW50cy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/Views/PFE_Etudiants/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUEZFX0V0dWRpYW50cy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/Views/PFE_Etudiants/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUEZFX0V0dWRpYW50cy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/Views/PFE_Etudiants/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUEZFX0V0dWRpYW50cy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/Views/PFE_Etudiants/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUEZFX0V0dWRpYW50cy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/Views/Societes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU29jaWV0ZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/Views/Societes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU29jaWV0ZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/Views/Societes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU29jaWV0ZXMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/Views/Societes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU29jaWV0ZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/Views/Societes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU29jaWV0ZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1lf0lav5r1

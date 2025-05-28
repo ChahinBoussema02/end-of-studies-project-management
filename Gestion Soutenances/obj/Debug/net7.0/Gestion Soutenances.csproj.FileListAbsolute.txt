@@ -1,0 +1,31 @@
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/bin/Debug/net7.0/appsettings.Development.json
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/bin/Debug/net7.0/appsettings.json
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/bin/Debug/net7.0/Gestion Soutenances.staticwebassets.runtime.json
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/bin/Debug/net7.0/Gestion Soutenances
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/bin/Debug/net7.0/Gestion Soutenances.deps.json
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/bin/Debug/net7.0/Gestion Soutenances.runtimeconfig.json
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/bin/Debug/net7.0/Gestion Soutenances.dll
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/bin/Debug/net7.0/Gestion Soutenances.pdb
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/obj/Debug/net7.0/Gestion Soutenances.csproj.AssemblyReference.cache
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/obj/Debug/net7.0/Gestion Soutenances.GeneratedMSBuildEditorConfig.editorconfig
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/obj/Debug/net7.0/Gestion Soutenances.AssemblyInfoInputs.cache
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/obj/Debug/net7.0/Gestion Soutenances.AssemblyInfo.cs
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/obj/Debug/net7.0/Gestion Soutenances.csproj.CoreCompileInputs.cache
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/obj/Debug/net7.0/Gestion Soutenances.MvcApplicationPartsAssemblyInfo.cache
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/obj/Debug/net7.0/Gestion Soutenances.RazorAssemblyInfo.cache
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/obj/Debug/net7.0/Gestion Soutenances.RazorAssemblyInfo.cs
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/obj/Debug/net7.0/staticwebassets/msbuild.Gestion Soutenances.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/obj/Debug/net7.0/staticwebassets/msbuild.build.Gestion Soutenances.props
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Gestion Soutenances.props
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Gestion Soutenances.props
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/obj/Debug/net7.0/staticwebassets.build.json
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/obj/Debug/net7.0/staticwebassets.development.json
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/obj/Debug/net7.0/scopedcss/bundle/Gestion Soutenances.styles.css
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/obj/Debug/net7.0/scopedcss/projectbundle/Gestion Soutenances.bundle.scp.css
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/obj/Debug/net7.0/Gestion Soutenances.dll
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/obj/Debug/net7.0/refint/Gestion Soutenances.dll
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/obj/Debug/net7.0/Gestion Soutenances.pdb
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/obj/Debug/net7.0/Gestion Soutenances.genruntimeconfig.cache
+/Users/HP/Projects/Gestion Soutenances/Gestion Soutenances/obj/Debug/net7.0/ref/Gestion Soutenances.dll

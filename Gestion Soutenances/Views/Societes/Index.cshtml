@@ -1,0 +1,69 @@
+@model IEnumerable<Gestion_Soutenances.Models.Societe>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title">Liste des Societes</h3>
+    </div>
+    <!-- /.card-header -->
+    <div class="card-body">
+        <table id="example1" class="table table-bordered table-hover">
+
+            <h1>Index</h1>
+
+            <p>
+                <a asp-action="Create">Ajouter une Societe</a>
+            </p>
+ 
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Lib)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Adresse)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Tel)
+                        </th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Lib)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Adresse)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Tel)
+                            </td>
+                            <td class="project-actions text-left">
+                                <a class="btn btn-primary btn-sm" asp-action="Details" asp-route-id="@item.Id">
+                                    <i class="fas fa-folder">
+                                    </i>
+                                    View
+                                </a>
+                                <a class="btn btn-info btn-sm" asp-action="Edit" asp-route-id="@item.Id">
+                                    <i class="fas fa-pencil-alt">
+                                    </i>
+                                    Edit
+                                </a>
+                                <a class="btn btn-danger btn-sm" asp-action="Delete" asp-route-id="@item.Id">
+                                    <i class="fas fa-trash">
+                                    </i>
+                                    Delete
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
