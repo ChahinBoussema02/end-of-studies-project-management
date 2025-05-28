@@ -1,8 +1,6 @@
 ﻿<Properties StartupConfiguration="{52110025-04D9-4009-BF08-E60D6F628BB9}|http">
-  <Debugger.DebugSourceFolders />
-  <MonoDevelop.Ide.ItemProperties.Gestion__Soutenances PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Gestion Soutenances/Startup.cs">
     <Files>
       <File FileName="Gestion Soutenances/Controllers/HomeController.cs" />
@@ -73,8 +71,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <Debugger.DebugSourceFolders />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Gestion__Soutenances PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>
